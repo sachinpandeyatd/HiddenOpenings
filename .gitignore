@@ -17,3 +17,5 @@ build/
 # Secrets - VERY IMPORTANT
 .env
 application-local.properties
+
+debug_page.html
