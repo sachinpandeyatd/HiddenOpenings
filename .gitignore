@@ -1,0 +1,19 @@
+# .gitignore
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Dependency directories
+frontend/node_modules/
+backend/target/
+build/
+.gradle/
+
+# Log files
+*.log
+
+# Secrets - VERY IMPORTANT
+.env
+application-local.properties
